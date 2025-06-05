@@ -1,4 +1,4 @@
-### Retail_Sales_Prediction
+# Retail_Sales_Prediction
 
 Sure! Here's a professional and clear README template for a **Retail Sales Prediction** GitHub repository:
 
